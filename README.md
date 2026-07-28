@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Ziad 👋
 
-<!--
-**zezoz5/zezoz5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend .NET Developer passionate about building scalable web applications with ASP.NET Core and C#.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science Graduate
+- 💻 Focused on Backend Development with .NET
+- 🌱 Currently improving TaskFlow and learning advanced ASP.NET Core
+- 📍 Egypt
+
+## 🛠 Tech Stack
+
+- C#
+- ASP.NET Core
+- Entity Framework Core
+- SQL Server
+- Clean Architecture
+- JWT Authentication
+- Git & GitHub
+- REST APIs
+
+## 📌 Featured Projects
+
+### TaskFlow
+Multi-tenant project management REST API built with ASP.NET Core.
+
+### NZWalks API
+REST API demonstrating authentication, CRUD operations, and Clean Architecture.
+
+### Anime Tracker
+Desktop application using Entity Framework Core and SQL Server.
+
+## 📫 Connect with Me
+
+- LinkedIn
+- Portfolio
+- Email
