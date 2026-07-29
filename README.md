@@ -29,7 +29,7 @@ Multi-tenant project management REST API built with ASP.NET Core.
 REST API demonstrating authentication, CRUD operations, and Clean Architecture.
 
 ### Anime Tracker
-Desktop application using Entity Framework Core and SQL Server.
+Console application using Entity Framework Core and SQL Server.
 
 ## 📫 Connect with Me
 
