@@ -9,16 +9,15 @@
 
 I'm a Computer Science graduate passionate about backend development with ASP.NET Core. I enjoy building REST APIs, designing clean architectures, and continuously improving my projects while learning modern backend development practices.
 
-- 💻 Backend .NET Developer
-- 🌱 Currently improving **TaskFlow**
-- 🎯 Looking for a **Backend .NET Internship / Junior Developer** opportunity
+- Backend .NET Developer
+- Currently improving **TaskFlow**
+- Looking for a **Backend .NET Internship / Junior Developer** opportunity
 
 ---
 
 ## 🛠 Tech Stack
 
 **Languages**
-
 - C#
 - SQL
 - JavaScript
@@ -26,7 +25,6 @@ I'm a Computer Science graduate passionate about backend development with ASP.NE
 - Python
 
 **Backend**
-
 - ASP.NET Core
 - Entity Framework Core
 - SQL Server
@@ -35,7 +33,6 @@ I'm a Computer Science graduate passionate about backend development with ASP.NE
 - REST APIs
 
 **Frontend**
-
 - HTML
 - CSS
 - Bootstrap
@@ -43,8 +40,8 @@ I'm a Computer Science graduate passionate about backend development with ASP.NE
 - Next.js
 
 **Tools**
-
 - Git & GitHub
+- Docker
 - VS Code
 - Visual Studio
 - Postman
@@ -54,42 +51,36 @@ I'm a Computer Science graduate passionate about backend development with ASP.NE
 
 ## 🚀 Featured Projects
 
-### 📌 TaskFlow *(In Progress)*
-
+### TaskFlow *(In Progress)*
 A multi-tenant task management REST API built with ASP.NET Core using Clean Architecture.
-
-**Tech:** ASP.NET Core • EF Core • SQL Server • JWT • ASP.NET Identity
-
-🔗 **Repository:** https://github.com/zezoz5/TaskFlow
+**Tech:** ASP.NET Core • EF Core • SQL Server • JWT • Docker • xUnit
+**Repository:** https://github.com/zezoz5/TaskFlow
 
 ---
 
-### 🥝 NZWalks
-
+### NZWalks
 RESTful ASP.NET Core Web API and MVC application featuring JWT Authentication, ASP.NET Identity, AutoMapper, image uploads, and SQL Server.
-
-🔗 **Repository:** https://github.com/zezoz5/NZWalks
+**Tech:** ASP.NET Core • EF Core • SQL Server • JWT • AutoMapper
+**Repository:** https://github.com/zezoz5/NZWalks
 
 ---
 
-### 🎌 ZAnime
-
+### ZAnime
 ASP.NET Core MVC application for managing anime collections using Entity Framework Core and the Repository Pattern.
-
-🔗 **Repository:** https://github.com/zezoz5/ZAnime
+**Tech:** ASP.NET Core MVC • EF Core • SQL Server
+**Repository:** https://github.com/zezoz5/ZAnime
 
 ---
 
-### 📚 Anime & Manga Tracker
-
+### Anime & Manga Tracker
 Console application built to practice Entity Framework Core, LINQ, and relational database design.
-
-🔗 **Repository:** https://github.com/zezoz5/AnimeMangaTracker
+**Tech:** C# • EF Core • SQL Server • LINQ
+**Repository:** https://github.com/zezoz5/AnimeMangaTracker
 
 ---
 
 ## 📫 Connect
 
-- 💼 LinkedIn: [ziad-khaled-dev](https://www.linkedin.com/in/ziad-khaled-dev)
-- 🌐 Portfolio: [Portfolio](https://zezoz5.github.io/Portfolio/)
-- 📧 Email: [ziad.khaled.omran.03@gmail.com](mailto:ziad.khaled.omran.03@gmail.com)
+- LinkedIn: [ziad-khaled-dev](https://www.linkedin.com/in/ziad-khaled-dev)
+- Portfolio: [Portfolio](https://zezoz5.github.io/Portfolio/)
+- Email: [ziad.khaled.omran.03@gmail.com](mailto:ziad.khaled.omran.03@gmail.com)
